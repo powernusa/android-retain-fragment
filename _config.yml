@@ -3,8 +3,12 @@
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
 relative_permalinks: true
-markdown:            kramdown
+markdown:            redcarpet
 highlighter:         pygments
+
+syntax-highlighting:
+  enabled :          true
+  css:               syntax.css
 
 # Setup
 title:               Android Retain Fragment
