@@ -1,7 +1,9 @@
 
 ## Header
 
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
+Happy fun highlighting. 
+[More details](https://github.com/mojombo/jekyll/wiki/liquid-extensions)
+
+{% highlight java %}
+int x = 0;
+{% endhighlight %}
