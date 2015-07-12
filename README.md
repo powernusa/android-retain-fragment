@@ -1,2 +1,4 @@
-# android-retain-fragment
-This project demonstrates how to create and use a Generic retain fragment to store any type of data across configuration changes.
+# Android Retain Fragment
+[A Guide to Reusable Retain Fragments in Android.](http://bcorso.github.io/android-retain-fragment/)
+
+For an explanation of this code visit: http://bcorso.github.io/android-retain-fragment/
